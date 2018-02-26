@@ -1,8 +1,10 @@
 # DouyuTv数据分析报告
  
 ## 零、数据分析工具
- 
-Python
+### 开发环境：
+* Linux Ubantu 16.04
+* Python 3.0
+
 ### 主要利用的包：
 *  Scrapy 
 *  Pandas 
